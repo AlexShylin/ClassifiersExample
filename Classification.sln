@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BayesClassifier", "BayesClassifier\BayesClassifier.csproj", "{5E3A5E9F-BED2-40EC-9102-56911E7A5AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K-Nearest Neighbor", "K-Nearest Neighbor\K-Nearest Neighbor.csproj", "{139CBAFE-3C25-4AB3-9F2B-D4F6C1B46F04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionTree", "DecisionTree\DecisionTree.csproj", "{6AB9E2FC-93D0-4C52-87D8-9A15B4CFE8F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E3A5E9F-BED2-40EC-9102-56911E7A5AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3A5E9F-BED2-40EC-9102-56911E7A5AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3A5E9F-BED2-40EC-9102-56911E7A5AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3A5E9F-BED2-40EC-9102-56911E7A5AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{139CBAFE-3C25-4AB3-9F2B-D4F6C1B46F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{139CBAFE-3C25-4AB3-9F2B-D4F6C1B46F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{139CBAFE-3C25-4AB3-9F2B-D4F6C1B46F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{139CBAFE-3C25-4AB3-9F2B-D4F6C1B46F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB9E2FC-93D0-4C52-87D8-9A15B4CFE8F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB9E2FC-93D0-4C52-87D8-9A15B4CFE8F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB9E2FC-93D0-4C52-87D8-9A15B4CFE8F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB9E2FC-93D0-4C52-87D8-9A15B4CFE8F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C446EC4A-60D6-4090-9371-A46808C715BC}
+	EndGlobalSection
+EndGlobal
